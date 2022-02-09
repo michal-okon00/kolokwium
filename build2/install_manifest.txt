@@ -1,0 +1,2 @@
+/home/michal/Desktop/kol/zad4/lib/libStudent.a
+/home/michal/Desktop/kol/zad4/bin/libtest
